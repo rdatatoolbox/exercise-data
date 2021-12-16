@@ -34,8 +34,6 @@ The WWF WildFinder database contains the presence of World vertebrate species (A
 
 - **PanTHERIA** [:globe_with_meridians:](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/08-1494.1)
 
-A global species-level data set of key life-history, ecological and geographical traits of all known extant and recently extinct mammals compiled from the literature. This database is stored in the file  `data/pantheria-traits/PanTHERIA_1-0_WR05_Aug2008.txt`
+A global species-level data set of key life-history, ecological and geographical traits of all known extant and recently extinct mammals compiled from the literature. This database is stored in the file  `data/pantheria-traits/PanTHERIA_1-0_WR05_Aug2008.txt`. Missing data are noted `-999`.
 
-**N.B.** Missing data are noted `-999`.
-
-> **Citation:** Jones KE _et al._ (2009) PanTHERIA: a species-level database of life history, ecology, and geography of extant and recently extinct mammals. **Ecology**, _90_, 2648. DOI: [10.1890/08-1494.1](https://doi.org/10.1890/08-1494.1)
+> **Citation:** Jones KE _et al._ (2009) PanTHERIA: a species-level database of life history, ecology, and geography of extant and recently extinct mammals. **Ecology**, _90_, 2648. DOI: [10.1890/08-1494.1](https://doi.org/10.1890/08-1494.1).
